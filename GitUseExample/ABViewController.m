@@ -27,7 +27,9 @@
 }
 
 - (IBAction)ClickTheButton:(id)sender {
-    NSLog(@"This is  Git Tutorial");
+    NSLog(@"This is  Git tutorial");
+    NSLog(@"new change");
+    
     
 }
 @end
