@@ -27,11 +27,12 @@
 }
 
 - (IBAction)ClickTheButton:(id)sender {
-    NSLog(@"This is  Git tutorial");
+    NSLog(@"This is  Git tutorial latest");
     NSLog(@"new change");
     //comment new
     //pushed to github is this comment added with a normal commit
     //2nd push to github
+    //add selected files
     
     
 }
